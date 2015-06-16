@@ -1,4 +1,4 @@
-package oop.ex6.sj_object;
+package oop.ex6.sj_object.InnerBlock.Boolean;
 
 /**
  * Created by GN3 on 6/14/15.

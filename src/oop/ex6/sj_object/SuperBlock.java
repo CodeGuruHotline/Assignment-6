@@ -1,7 +1,8 @@
 package oop.ex6.sj_object;
 
+import oop.ex6.sj_object.Variable.Variable;
+
 import java.io.File;
-import java.text.ParseException;
 import java.util.HashMap;
 
 /**

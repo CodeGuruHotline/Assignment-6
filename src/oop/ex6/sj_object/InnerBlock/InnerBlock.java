@@ -1,11 +1,14 @@
-package oop.ex6.sj_object;
+package oop.ex6.sj_object.InnerBlock;
+
+import oop.ex6.sj_object.InnerBlock.Method.MethodBlock;
+import oop.ex6.sj_object.SuperBlock;
 
 import java.io.File;
 
 /**
  * Created by GN3 on 6/15/15.
  */
-public abstract class InnerBlock extends SuperBlock{
+public abstract class InnerBlock extends SuperBlock {
 
     /*Data Members*/
 

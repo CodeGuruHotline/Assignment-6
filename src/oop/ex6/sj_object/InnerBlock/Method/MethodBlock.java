@@ -1,4 +1,7 @@
-package oop.ex6.sj_object;
+package oop.ex6.sj_object.InnerBlock.Method;
+
+import oop.ex6.sj_object.InnerBlock.InnerBlock;
+import oop.ex6.sj_object.SuperBlock;
 
 import java.io.File;
 import java.util.LinkedList;

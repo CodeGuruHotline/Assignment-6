@@ -1,4 +1,4 @@
-package oop.ex6.sj_object;
+package oop.ex6.sj_object.Variable;
 
 /**
  * Created by GN3 on 6/15/15.
